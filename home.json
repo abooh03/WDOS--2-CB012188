@@ -1,0 +1,65 @@
+{
+  "title": "Wild life in SriLanka",
+  "sections": [
+    {
+      "title": "Welcome to the World of Sri Lankan Wildlife",
+      "content": [
+        {
+          "description": "Nestled in the heart of the Indian Ocean, Sri Lanka is a haven of biodiversity. Its lush landscapes are home to rare species like the elusive leopard and the vibrant Sri Lankan junglefowl. From misty mountains to sun-soaked coastlines, this island nation offers a unique tapestry of life. Underwater, colorful coral reefs thrive. In Sri Lanka, nature's canvas is painted with the brilliance of diverse and endemic species, making it a true jewel in the crown of global biodiversity."
+        },
+        {
+          "image": "images/ele.jpg"
+        }
+      ]
+    },
+    {
+      "content": [
+        {
+          "image": "images/flora and fuana.jpg"
+        },
+        {
+          "title": "Flora and Fauna of Sri Lanka",
+          "description": "Explore Sri Lanka's botanical wonderland, a tapestry of vibrant colors and scents from mist-kissed orchids to towering ancient trees. The island is a haven for plant enthusiasts, where each leaf tells a story of resilience, and every bloom paints a vibrant chapter in Sri Lanka's natural beauty. In the wilderness, witness a mesmerizing cast of creatures - the elegant dance of leopards, trumpeting calls of elephants, and vibrant plumage of endemic birds. Join us on a journey to uncover the extraordinary stories written by the diverse and captivating flora and fauna that call Sri Lanka home",
+          "bulleted_list": [
+            "Sri Lanka is home to a variety of unique plant and animal species.",
+            "The island's diverse ecosystems support a rich array of wildlife.",
+            "Many endemic species can only be found in Sri Lanka."
+          ]
+        }
+      ]
+    },
+    {
+      "content": [
+        {
+          "title": "Endangered Species",
+          "description": "Embark on a journey through Sri Lanka's lush landscapes, where a tale of conservation unfolds to protect endangered species like the Sri Lankan elephant and elusive leopard. Dedicated efforts ensure their survival, inviting you to join this noble cause. Explore the fragile beauty of species like the iconic sloth bear and purple-faced langur, each telling a unique story of adaptation. Your visit not only unveils challenges but provides an opportunity to actively engage in their protection. Together, let's celebrate the spirit of these endangered wonders, ensuring they continue to grace our landscapes for generations."
+        },
+        {
+          "image": "images/endangered monkey.jpg"
+        }
+      ]
+    },
+    {
+      "content": [
+        {
+          "image": "images/ImageForArticle_714_16449362895935733.webp"
+        },
+        {
+          "title": "Conservation Efforts",
+          "ordered_list": [
+            "Conservation Commitment: Sri Lanka's commitment to wildlife conservation is unwavering. Through community-led initiatives and strategic partnerships, we actively protect endangered species and their habitats. Join us in the collective effort to ensure a sustainable future for the island's unique biodiversity.",
+            "Preserving Nature's Wonders: In the heart of Sri Lanka's wildlife sanctuaries, a symphony of conservation efforts plays out. From habitat restoration to anti-poaching measures, we're dedicated to preserving the extraordinary flora and fauna that make our island truly special. Explore with us and be part of the legacy of environmental stewardship for generations to come."
+          ]
+        }
+      ]
+    }
+  ],
+  "footer": {
+    "social_links": {
+      "instagram": "https://www.instagram.com/crime__abooh",
+      "google_plus": "Abdullahsamad03@gmail.com",
+      "youtube": "https://www.youtube.com/@whitestudio4744"
+    },
+    "copyright": "Copyright ©2024; Designed by Abooh"
+  }
+}

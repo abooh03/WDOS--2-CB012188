@@ -1,0 +1,25 @@
+{
+  "title": "Wild life in SriLanka",
+  "sections": [
+    {
+      "title": "Wilpattu National Park",
+      "content": "Welcome to Wilpattu National Park, a mesmerizing sanctuary where untamed beauty meets the heart of the wild. Embark on an unforgettable journey through lush landscapes and ancient ruins, where the symphony of nature echoes in every rustle of leaves and elusive call of the wild. Wilpattu, with its sprawling wilderness and serene lakes, invites you to witness the dance of leopards, elephants, and vibrant birdlife, creating a tapestry of biodiversity that captivates the soul. Discover the magic of Wilpattu – where adventure meets tranquility, and every moment is a brushstroke on the canvas of unforgettable memories."
+    },
+    {
+      "images": [
+        "images/Wilpattu National Park Sri Lanka.jpg",
+        "images/wilpat.jpg",
+        "images/Wilpattu National Park Jeep Safari.jpg",
+        "images/wilpattu.jpg"
+      ]
+    }
+  ],
+  "footer": {
+    "social_links": {
+      "instagram": "https://www.instagram.com/crime__abooh",
+      "google_plus": "Abdullahsamad03@gmail.com",
+      "youtube": "https://www.youtube.com/@whitestudio4744"
+    },
+    "copyright": "Copyright ©2024; Designed by Abooh"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "title": "Wild life in SriLanka",
+  "sections": [
+    {
+      "title": "Indigenous Animals In Sri Lanka",
+      "content": [
+        {
+          "title": "Ceylon Spurfowl",
+          "description": [
+            "The Ceylon spurfowl, or locally known as 'Ban Kukula,' is a ground-dwelling bird endemic to Sri Lanka.",
+            "This species is characterized by its distinct plumage, with a combination of dark and light markings, and it has distinctive spurs on its legs.",
+            "Found in various forested habitats, the Ceylon spurfowl is known for its secretive nature, making it a challenging bird to spot. Conservation efforts are in place to protect its habitat and ensure its survival."
+          ],
+          "image": "images/spur.jpg"
+        },
+        {
+          "title": "Loris",
+          "description": [
+            "The slender loris is a small, nocturnal primate found in the rainforests of Sri Lanka. There are two species: the red slender loris and the gray slender loris.",
+            "Slender lorises have large round eyes adapted for night vision and are known for their slow and deliberate movements.",
+            "Unfortunately, these primates face threats from habitat loss and the illegal pet trade. Conservation efforts are in place to protect their natural habitats and raise awareness about the importance of preserving these unique animals."
+          ],
+          "image": "images/Loris (1).jpg"
+        },
+        {
+          "title": "Toque Macaque",
+          "description": [
+            "The toque macaque is an Old-World monkey endemic to Sri Lanka and is recognized by its characteristic upturned nose.",
+            "Found in a variety of habitats, including forests and urban areas, these macaques are known for their social behavior and adaptability.",
+            "The term 'toque' refers to the crown of hair on their heads. They are an integral part of the island's diverse primate population."
+          ],
+          "image": "images/Toque Macaque.jpg"
+        }
+      ]
+    }
+  ],
+  "footer": {
+    "social_links": {
+      "instagram": "https://www.instagram.com/crime__abooh",
+      "google_plus": "Abdullahsamad03@gmail.com",
+      "youtube": "https://www.youtube.com/@whitestudio4744"
+    },
+    "copyright": "Copyright ©2024; Designed by Abooh"
+  }
+}

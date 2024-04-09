@@ -1,0 +1,60 @@
+{
+  "title": "Wild life in SriLanka",
+  "sections": [
+    {
+      "title": "Sri Lankan Leopard Venue’s",
+      "sub_sections": [
+        {
+          "image": "images/Yala National park - SriLanka.jpg",
+          "heading": "Yala National Park",
+          "paragraph": "Yala National Park in southeast Sri Lanka is famed for leopard sightings in diverse landscapes. From lush jungles to coastal areas, it offers an optimal habitat for these elusive big cats. A unique blend of ecosystems supports rich biodiversity, making it a must-visit for nature enthusiasts and wildlife photographers."
+        },
+        {
+          "image": "images/Leopard at Singita Sabi Sand.jpg",
+          "heading": "Wilpattu National Park",
+          "paragraph": "Wilpattu National Park in northwest Sri Lanka, with lush landscapes and natural lakes, is a captivating destination for leopard encounters. Its rich biodiversity ensures an immersive wildlife experience, making it a must-visit for nature enthusiasts."
+        },
+        {
+          "image": "images/leopard sleep 4.3.jpg",
+          "heading": "Udawalawe National Park",
+          "paragraph": "Udawalawe National Park in south Sri Lanka is famed for its thriving leopard population. Open landscapes offer excellent visibility for fantastic leopard watching. The park's unique environment, with grasslands and water bodies, makes it an ideal destination for observing these majestic big cats. Visitors enjoy unparalleled opportunities for leopard sightings, attracting wildlife enthusiasts and photographers alike."
+        }
+      ]
+    },
+    {
+      "title": "Threats to Sri Lankan Leopards",
+      "sub_sections": [
+        {
+          "image": "images/Leopard in Guwahai.jpg",
+          "heading": "Human-Wildlife Conflict",
+          "paragraph": "Human-wildlife conflict occurs as human settlements encroach on leopard habitats, raising risks for both communities and leopards. Mitigation involves awareness programs, habitat protection, and measures to minimize conflict, emphasizing secure waste disposal, wildlife-friendly planning, and promoting coexistence.",
+          "link": "https://wildlifejustice.org/wildlife-crime/?gclid=CjwKCAiA-P-rBhBEEiwAQEXhHxWHwSmn33wo7zIsSK7KtxgiXXI32XpElZihcZQmraxsyluDZWXa4BoCKU4QAvD_BwE"
+        }
+      ]
+    },
+    {
+      "title": "Illegal Wildlife Trade",
+      "sub_sections": [
+        {
+          "image": "images/skin.jpg",
+          "heading": "Description of the Threat and Its Consequences",
+          "paragraph": "Illegal wildlife trade poses a severe threat to Sri Lankan leopards. This illicit activity involves the poaching and trafficking of leopard parts, such as skin, bones, and other body parts. The consequences are dire, leading to a decline in leopard populations and disrupting the delicate balance of the ecosystem. The loss of leopards can have cascading effects on the entire biodiversity of the region."
+        },
+        {
+          "image": "images/De28-leopard-dead.jpg",
+          "heading": "Mechanisms Taken to Reduce the Threat",
+          "paragraph": "Efforts to combat illegal wildlife trade in Sri Lanka involve a multi-faceted approach. Strict law enforcement is implemented to deter poachers and traffickers, and penalties for engaging in such activities are severe. Conservation organizations work closely with local communities to raise awareness about the importance of leopard conservation and the consequences of wildlife trafficking. Additionally, international collaboration and cooperation contribute to the global fight against illegal wildlife trade.",
+          "link": "https://wildlifejustice.org/wildlife-crime/?gclid=CjwKCAiA-P-rBhBEEiwAQEXhHxWHwSmn33wo7zIsSK7KtxgiXXI32XpElZihcZQmraxsyluDZWXa4BoCKU4QAvD_BwE"
+        }
+      ]
+    }
+  ],
+  "footer": {
+    "social_links": {
+      "instagram": "https://www.instagram.com/crime__abooh",
+      "google_plus": "Abdullahsamad03@gmail.com",
+      "youtube": "https://www.youtube.com/@whitestudio4744"
+    },
+    "copyright": "Copyright ©2024; Designed by Abooh"
+  }
+}
