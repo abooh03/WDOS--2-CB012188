@@ -1,0 +1,35 @@
+{
+  "title": "Wild life in SriLanka",
+  "sections": [
+    {
+      "title": "Department of Wildlife Conservation-Sri Lanka",
+      "content": [
+        {
+          "description": "The Department of Wildlife Conservation in Sri Lanka is entrusted with the crucial responsibility of preserving the country's rich biodiversity and natural habitats. Established to safeguard the diverse flora and fauna, the department plays a vital role in conservation efforts, wildlife research, and habitat management."
+        },
+        {
+          "image": "images/wild life consversation.jpg"
+        },
+        {
+          "image": "images/deer (2).jpg",
+          "title": "Protected Areas",
+          "description": "Explore the breathtaking beauty of Sri Lanka's protected areas managed by the Department of Wildlife Conservation. These sanctuaries serve as havens for a myriad of species, including endemic and endangered ones. From lush rainforests to pristine coastal ecosystems, each protected area contributes to the country's natural heritage."
+        },
+        {
+          "description": "Our dedicated team works tirelessly to ensure the sustainability of these habitats. Visitors have the opportunity to witness diverse ecosystems, rare wildlife species, and engage in eco-friendly activities that promote both conservation and education. Join us in our commitment to preserving the wonders of Sri Lanka's natural world."
+        },
+        {
+          "iframe_source": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3960.945747232183!2d79.9198057!3d6.8970927!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae250aa85489b1f%3A0xd8773339b6b43dbb!2sDepartment%20of%20Wildlife%20Conservation!5e0!3m2!1sen!2suk!4v1705426852923!5m2!1sen!2suk"
+        }
+      ]
+    }
+  ],
+  "footer": {
+    "social_links": {
+      "instagram": "https://www.instagram.com/crime__abooh",
+      "google_plus": "Abdullahsamad03@gmail.com",
+      "youtube": "https://www.youtube.com/@whitestudio4744"
+    },
+    "copyright": "Copyright ©2024; Designed by Abooh"
+  }
+}

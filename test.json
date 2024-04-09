@@ -1,0 +1,68 @@
+{
+    "header": {
+      "title": "home"
+    },
+    "navigation": {
+      "links": [
+        {"text": "Home", "url": "index.html"},
+        {"text": "Sri Lankan Wildlife", "url": "srilankanwildlife.html"},
+        {"text": "Department of wildlife", "url": "departmentofwildlife.html"},
+        {"text": "Sri Lankan Leopard", "url": "leopard.html"},
+        {"text": "Animals in Sri Lanka", "url": "animals.html"}
+      ]
+    },
+    "content": [
+      {
+        "sectionTitle": "biodiversity in sri lanka",
+        "text": "Sri Lanka boasts incredible biodiversity despite its compact size. This island nation is a hotspot for biodiversity, hosting a wide range of ecosystems, including tropical forests, wetlands, and coastal areas.Sri Lanka's compact size belies its incredible biodiversity. Within its borders, an astonishing variety of ecosystems thrive, from dense tropical rainforests to arid plains and coastal mangroves. This mosaic of habitats nurtures an unparalleled wealth of wildlife, showcasing a treasure trove of species found nowhere else on earth.",
+        "button": {"text": "about us", "url": "#"}
+      },
+      {
+        "sectionTitle": "Sri lanka's bio diversity",
+        "listItems": [
+          {"title": "Rich Fauna", "description": "Sri Lanka is home to diverse species."},
+          {"title": "Unique Flora", "description": "The island's flora is equally diverse, with many endemic plant species."},
+          {"title": "Conservation effort", "description": "Various conservation projects and national parks across the country aim to protect and preserve this rich biodiversity."}
+        ],
+        "image": "images/bio.jpeg"
+      },
+      {
+        "sectionTitle": "New updates we offer",
+        "text": "To enhance the customer interaction and ability to keep in track with our progress and things our platform enables for new updates for the website."
+      },
+      {
+        "sectionTitle": "Enthralling Flora",
+        "text": "The island's verdant landscapes are adorned with an enchanting assortment of flora, including the vibrant orchids, exotic spices like cinnamon and cloves, and the revered sacred fig, known as the Bo tree, with cultural and religious significance.",
+        "image": "images/img2.jpg"
+      },
+      {
+        "sectionTitle": "Rich Fauna",
+        "text": "Sri Lanka is home to diverse species, including the iconic Sri Lankan elephant, leopard, sloth bear, and a variety of bird species like the colorful Sri Lankan junglefowl.",
+        "image": "images/img.jpg"
+      },
+      {
+        "sectionTitle": "Conservation Efforts",
+        "text": "While thriving in biodiversity, Sri Lanka faces conservation challenges. Human-wildlife conflict, habitat degradation, and illegal poaching pose significant threats to its ecological balance. However, the nation actively engages in preserving its natural heritage, with dedicated conservation initiatives and protected areas, striving to safeguard the delicate ecosystems and unique species that call this paradise home.",
+        "image": "images/img3.jpg"
+      }
+    ],
+    "footer": {
+      "sections": {
+        "aboutUs": {
+          "title": "About Us",
+          "links": ["Blog", "Demo", "Customers", "Investors", "Terms of Services"]
+        },
+        "contactUs": {
+          "title": "Contact Us",
+          "links": ["Support", "Contact", "Sponsorship"]
+        },
+        "socialMedia": {
+          "title": "Social Media",
+          "links": ["Instagram", "Facebook", "YouTube", "Twitter"]
+        },
+        "joinUs": {
+          "title": "Join us for more details"
+        }
+      }
+    }
+  }

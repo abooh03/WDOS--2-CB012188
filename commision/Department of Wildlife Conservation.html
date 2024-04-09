@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+    <header> <!--main area-->
+        <meta name="viewport" content="width=device-width", initial-scale="1.0">
+        <title>Wild life in SriLanka</title>
+        <link rel="stylesheet" href="Department of Wildlife Conservation.css">
+        <link href="https://fonts.googleapis.com/css2?family=Kalnia:wght@300;400&family=Kurale&display=swap" rel="stylesheet">
+        <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+        <script src="https://kit.fontawesome.com/yourcode.js" crossorigin="anonymous"></script>
+    </header>
+    <body>
+        <nav>
+            <input type="checkbox" id="check">
+            <label for="check" class="checkbtn">
+              <i class="fa-solid fa-bars"></i>
+            </label>
+            <label class="logo"><img src="images/logo.png" alt=""></label>
+            <ul class="navli">
+                <li><a class="active" href="home.html">Home</a></li>
+                <li><a href="Sri Lankan Wildlife Introduction.html">Sri Lankan Wildlife Introduction</a></li>
+                <li><a href="Department of Wildlife Conservation.html">Department of Wildlife Conservation</a></li>
+                <li><a href="Sri Lankan Leopard.html">Sri Lankan Leopard</a></li>
+                <li><a href="Animals in Sri Lanka.html">Animals in Sri Lanka</a></li>
+            </ul>
+        </nav>
+        <section class="mainimg">
+        </section>
+        <section class="introduction">  <!--Introduction-->
+            <h1>Department of Wildlife Conservation-Sri Lanka</h1>
+        </section>
+        <section class="content" id="hieght"> <!--4 sub section-->
+            <div class="row">
+                <div class="content-col">
+                    <p>The Department of Wildlife Conservation in Sri Lanka is entrusted with the crucial responsibility of preserving the country's rich biodiversity and natural habitats. Established to safeguard the diverse flora and fauna, the department plays a vital role in conservation efforts, wildlife research, and habitat management.</p>
+                </div>
+                <div class="content-col">
+                    <img src="images/wild life consversation.jpg">
+                </div>
+            </div>
+        </section>
+        <section class="content"> <!--4 sub section-->
+            <div class="row">
+                <div class="content-col">
+                    <img src="images/deer (2).jpg">
+                </div>
+                <div class="content-col">
+                    <h2>Protected Areas</h2>
+                    <p>Explore the breathtaking beauty of Sri Lanka's protected areas managed by the Department of Wildlife Conservation. These sanctuaries serve as havens for a myriad of species, including endemic and endangered ones. From lush rainforests to pristine coastal ecosystems, each protected area contributes to the country's natural heritage.</p>
+              </div>
+            </div>
+        </section>
+        <section class="content"> <!--4 sub section-->
+            <div class="row">
+                <div class="content-col">
+                    <p>Our dedicated team works tirelessly to ensure the sustainability of these habitats. Visitors have the opportunity to witness diverse ecosystems, rare wildlife species, and engage in eco-friendly activities that promote both conservation and education. Join us in our commitment to preserving the wonders of Sri Lanka's natural world.</p>
+                </div>
+                <div class="content-col">
+                    <img src="images/Elephants ilegal.jpg">
+                </div>
+            </div>
+        </section>
+        <section>
+        <table>
+        <td>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3960.945747232183!2d79.9198057!3d6.8970927!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae250aa85489b1f%3A0xd8773339b6b43dbb!2sDepartment%20of%20Wildlife%20Conservation!5e0!3m2!1sen!2suk!4v1705426852923!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+        </iframe>
+        </td>
+        </table>
+        </section>
+        <hr>
+        <footer>
+            <div class="footcon"> <!-- footer -->
+                <div class="social">
+                    <a href="https://www.instagram.com/crime__abooh"><i class="fa-brands fa-instagram"></i></a>
+                    <a href="Abdullahsamad03@gmail.com"><i class="fa-brands fa-google-plus"></i></a>
+                    <a href="https://www.youtube.com/@whitestudio4744"><i class="fa-brands fa-youtube"></i></a>
+                </div>
+            </div>
+            <div class="footbot">
+                <p>Copyright &#169;2024; Designed by <span class="design">Abooh</span></p>
+            </div>
+        </footer>
+    <script>
+
+        var navig = document.getElementById("navig");
+        var menu = document.getElementById("menu");
+
+        window.onscroll=function(){
+            if(window.pageYOffset >= menu.offsetTop){
+                navig.classList.add("sticky")
+            }
+            else{
+                navig.classList.remove("sticky")
+            }
+        }
+
+    </script>
+    </body>
+</html>

@@ -1,0 +1,25 @@
+{
+  "title": "Wild life in SriLanka",
+  "sections": [
+    {
+      "title": "Yala National Park",
+      "content": "Explore the untamed beauty of Yala National Park, where nature's masterpiece unfolds in breathtaking landscapes and diverse wildlife encounters. Embark on an exhilarating safari through lush jungles and vast savannahs, home to majestic elephants, elusive leopards, and a myriad of vibrant bird species. Yala's enchanting charm, coupled with its rich biodiversity, promises an unforgettable journey for nature enthusiasts and adventure seekers alike. Immerse yourself in the allure of Yala – a sanctuary of wonder and a photographer's paradise"
+    },
+    {
+      "images": [
+        "images/yala.jpg",
+        "images/Yala 1.0.jpg",
+        "images/Yala National Park Sri Lanka.jpg",
+        "images/The ultimate Sri Lanka Safari guide.jpg"
+      ]
+    }
+  ],
+  "footer": {
+    "social_links": {
+      "instagram": "https://www.instagram.com/crime__abooh",
+      "google_plus": "Abdullahsamad03@gmail.com",
+      "youtube": "https://www.youtube.com/@whitestudio4744"
+    },
+    "copyright": "Copyright ©2024; Designed by Abooh"
+  }
+}

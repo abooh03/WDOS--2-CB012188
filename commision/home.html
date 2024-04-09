@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html>
+    <header> <!--main area-->
+        <meta name="viewport" content="width=device-width", initial-scale="1.0">
+        <title>Wildlife in Sri Lanka</title>
+        <link rel="stylesheet" href="home.css">
+        <link href="https://fonts.googleapis.com/css2?family=Kalnia:wght@300;400&family=Kurale&display=swap" rel="stylesheet">
+        <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+        <script src="https://kit.fontawesome.com/yourcode.js" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/alpinejs@2.8.2/dist/alpine.min.js" defer></script>
+    </header>
+    <body>
+        <nav>
+            <input type="checkbox" id="check">
+            <label for="check" class="checkbtn">
+              <i class="fa-solid fa-bars"></i>
+            </label>
+            <label class="logo"><img src="images/logo.png" alt=""></label>
+            <ul class="navli">
+                <li><a class="active" href="home.html">Home</a></li>
+                <li><a href="Sri Lankan Wildlife Introduction.html">Sri Lankan Wildlife Introduction</a></li>
+                <li><a href="Department of Wildlife Conservation.html">Department of Wildlife Conservation</a></li>
+                <li><a href="Sri Lankan Leopard.html">Sri Lankan Leopard</a></li>
+                <li><a href="Animals in Sri Lanka.html">Animals in Sri Lanka</a></li>
+                <!-- Updated login button -->
+                <li id="loginButton"><a href="login.html">Login</a></li> <!-- Added Login button -->
+                <!-- Logout button -->
+                <li id="logoutButton" style="display: none;"><a href="#" onclick="logout()">Logout</a></li>
+            </ul>
+        </nav>
+        <section class="mainimg">
+        </section>
+        <section class="introduction">  <!--Introduction-->
+            <h1>Welcome to the World of Sri Lankan Wildlife</h1>
+        </section>
+        <section class="content" id="hieght"> <!--4 sub section-->
+            <div class="row">
+                <div class="content-col">
+                    <p>Nestled in the heart of the Indian Ocean, Sri Lanka is a haven of biodiversity. Its lush landscapes are home to rare species like the elusive leopard and the vibrant Sri Lankan junglefowl. From misty mountains to sun-soaked coastlines, this island nation offers a unique tapestry of life. Underwater, colorful coral reefs thrive. In Sri Lanka, nature's canvas is painted with the brilliance of diverse and endemic species, making it a true jewel in the crown of global biodiversity.</p>
+                </div>
+                <div class="content-col">
+                    <img src="images/ele.jpg">
+                </div>
+            </div>
+        </section>
+        <section class="content"> <!--4 sub section-->
+            <div class="row">
+                <div class="content-col">
+                    <img src="images/flora and fuana.jpg">
+                </div>
+                <div class="content-col">
+                    <h2>Flora and Fauna of Sri Lanka</h2>
+                    <p>Explore Sri Lanka's botanical wonderland, a tapestry of vibrant colors and scents from mist-kissed orchids to towering ancient trees. The island is a haven for plant enthusiasts, where each leaf tells a story of resilience, and every bloom paints a vibrant chapter in Sri Lanka's natural beauty. In the wilderness, witness a mesmerizing cast of creatures - the elegant dance of leopards, trumpeting calls of elephants, and vibrant plumage of endemic birds. Join us on a journey to uncover the extraordinary stories written by the diverse and captivating flora and fauna that call Sri Lanka home</p>
+                    <p><ul><li>Sri Lanka is home to a variety of unique plant and animal species.</li>
+                           <li>The island's diverse ecosystems support a rich array of wildlife.</li>
+                           <li>Many endemic species can only be found in Sri Lanka. </li></ul></p>
+                </div>
+            </div>
+        </section>
+        <section class="content"> <!--4 sub section-->
+            <div class="row">
+              <div class="content-col">
+                    <h2>Endangered Species</h2>
+                    <p>Embark on a journey through Sri Lanka's lush landscapes, where a tale of conservation unfolds to protect endangered species like the Sri Lankan elephant and elusive leopard. Dedicated efforts ensure their survival, inviting you to join this noble cause. Explore the fragile beauty of species like the iconic sloth bear and purple-faced langur, each telling a unique story of adaptation. Your visit not only unveils challenges but provides an opportunity to actively engage in their protection. Together, let's celebrate the spirit of these endangered wonders, ensuring they continue to grace our landscapes for generations.</p>
+              </div>
+                <div class="content-col">
+                    <img src="images/endangered monkey.jpg">
+                </div>
+            </div>
+        </section>
+        <section class="content"> <!--4 sub section-->
+            <div class="row">
+                <div class="content-col">
+                    <img src="images/ImageForArticle_714_16449362895935733.webp">
+                </div>
+              <div class="content-col">
+                    <h2>Conservation Efforts</h2>
+                <p><ol><li>Conservation Commitment: Sri Lanka's commitment to wildlife conservation is unwavering. Through community-led initiatives and strategic partnerships, we actively protect endangered species and their habitats. Join us in the collective effort to ensure a sustainable future for the island's unique biodiversity.</li>
+                <br>
+                      <li>Preserving Nature's Wonders: In the heart of Sri Lanka's wildlife sanctuaries, a symphony of conservation efforts plays out. From habitat restoration to anti-poaching measures, we're dedicated to preserving the extraordinary flora and fauna that make our island truly special. Explore with us and be part of the legacy of environmental stewardship for generations to come.</li></ol></p>
+              </div>
+            </div>
+        </section>
+        <hr>
+        <footer>
+            <div class="footcon"> <!-- footer -->
+                <div class="social">
+                    <a href="https://www.instagram.com/crime__abooh"><i class="fa-brands fa-instagram"></i></a>
+                    <a href="Abdullahsamad03@gmail.com"><i class="fa-brands fa-google-plus"></i></a>
+                    <a href="https://www.youtube.com/@whitestudio4744"><i class="fa-brands fa-youtube"></i></a>
+                </div>
+                <form id="newsletterForm">
+                    <input type="email" id="email" placeholder="Enter your email" required>
+                    <button type="submit">Subscribe</button>
+                </form>
+            </div>
+            <div class="footbot">
+                <p>Copyright &#169;2024; Designed by <span class="design">Abooh</span></p>
+            </div>
+        </footer>
+        <script>
+            window.onload = function() { // Ensure DOM is loaded before accessing elements
+                var navig = document.getElementById("navig");
+                var menu = document.getElementById("menu");
+        
+                if (menu) { // Check if menu element exists
+                    window.onscroll = function() {
+                        if (window.pageYOffset >= menu.offsetTop) {
+                            navig.classList.add("sticky");
+                        } else {
+                            navig.classList.remove("sticky");
+                        }
+                    };
+                }
+
+                // Check if user is logged in
+                var authenticated_users = JSON.parse(localStorage.getItem('authenticated_users'));
+                if (authenticated_users) {
+                    var loggedInUser = authenticated_users.users.find(user => user.loggedIn === true);
+                    if (loggedInUser) {
+                        // Hide the login button and show logout button
+                        document.getElementById("loginButton").style.display = "none";
+                        document.getElementById("logoutButton").style.display = "block";
+                    }
+                }
+            }
+
+            function logout() {
+                // Remove user from local storage
+                var authenticated_users = JSON.parse(localStorage.getItem('authenticated_users'));
+                if (authenticated_users) {
+                    var loggedInUserIndex = authenticated_users.users.findIndex(user => user.loggedIn === true);
+                    if (loggedInUserIndex !== -1) {
+                        authenticated_users.users[loggedInUserIndex].loggedIn = false;
+                        localStorage.setItem('authenticated_users', JSON.stringify(authenticated_users));
+                    }
+                }
+                // Redirect to home page after logout
+                window.location.href = "home.html";
+            }
+
+            // Retrieve JSON from local storage or initialize if not present
+            var newsletter_subscriptions = JSON.parse(localStorage.getItem('newsletter_subscriptions'));
+            if (!newsletter_subscriptions) {
+                newsletter_subscriptions = [];
+                localStorage.setItem('newsletter_subscriptions', JSON.stringify(newsletter_subscriptions));
+            }
+
+            document.getElementById('newsletterForm').addEventListener('submit', function(e) {
+                e.preventDefault();
+                
+                // Get input value
+                const email = document.getElementById('email').value;
+                
+                // Check if the email already exists in subscriptions
+                const existingSubscription = newsletter_subscriptions.includes(email);
+                
+                if (existingSubscription) {
+                    alert('You are already subscribed to the newsletter.');
+                } else {
+                    // Add the new email to the list of newsletter subscriptions
+                    newsletter_subscriptions.push(email);
+                    localStorage.setItem('newsletter_subscriptions', JSON.stringify(newsletter_subscriptions));
+                    alert('Thank you for subscribing to the newsletter!');
+                }
+            });
+
+
+        </script>
+        
+    </body>
+</html>

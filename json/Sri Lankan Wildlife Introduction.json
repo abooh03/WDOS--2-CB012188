@@ -1,0 +1,87 @@
+{
+  "title": "Wild life in SriLanka",
+  "sections": [
+    {
+      "title": "Sri Lankan Wild Life",
+      "content": [
+        {
+          "heading": "Udawalawe National Park",
+          "paragraph": "Welcome to Udawalawe National Park, a captivating wildlife sanctuary in southern Sri Lanka. Known for its incredible biodiversity, the park is a haven for nature enthusiasts, especially renowned for its thriving elephant population. Experience the enchantment of observing majestic giants in their natural habitat as you embark on a safari adventure through vast grasslands and beside serene water bodies. Udawalawe's scenic beauty and diverse wildlife, including leopards, deer, wild buffalo, and a plethora of bird species, make it a hotspot for nature lovers worldwide."
+        },
+        {
+          "iframe_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3964.3708038173277!2d80.876319!3d6.4746288!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae408ff88887e79%3A0xaf12e79ffbd980d7!2sUdawalawe%20National%20Park!5e0!3m2!1sen!2suk!4v1705352028373!5m2!1sen!2suk",
+          "iframe_width": "600",
+          "iframe_height": "450"
+        }
+      ]
+    },
+    {
+      "title": "Wildlife at Udawalawe",
+      "table": {
+        "caption": "Wildlife at Udawalawe",
+        "rows": [
+          {
+            "Animal Name": "Asian Elephant",
+            "Interesting Facts": "The park has a large population of Asian elephants, and you can observe them in their natural behavior.",
+            "Image": "images/elephant t.jpg"
+          },
+          {
+            "Animal Name": "Leopard",
+            "Interesting Facts": "Udawalawe is one of the best places to spot leopards in Sri Lanka.",
+            "Image": "images/leopard.jpg"
+          },
+          {
+            "Animal Name": "Various Bird Species",
+            "Interesting Facts": "The park is a paradise for birdwatchers, with numerous species soaring through the skies.",
+            "Image": "images/peacock.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Sinharaja Forest Reserve",
+      "content": [
+        {
+          "heading": "Sinharaja Forest Reserve",
+          "paragraph": "Explore the magical Sinharaja Forest Reserve, a UNESCO World Heritage Site nestled in southwest Sri Lanka. This tropical paradise is a haven for nature enthusiasts, boasting vibrant biodiversity and untouched wilderness. Towering trees, exotic flowers, and diverse bird species create an enchanting experience. Home to rare species like the Purple-faced Langur, Sri Lanka Blue Magpie, and the elusive Leopard, Sinharaja's winding trails offer a magical journey into a rich ecosystem. Immerse yourself in the beauty of this vital conservation area, where every step unveils the wonders of unique Sri Lankan wildlife."
+        },
+        {
+          "iframe_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3964.8991565978467!2d80.46002659999999!3d6.406990800000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae3e76bd109d45f%3A0x8c0ef1010649701b!2sSinharaja%20Forest%20Reserve!5e0!3m2!1sen!2suk!4v1705352168291!5m2!1sen!2suk",
+          "iframe_width": "600",
+          "iframe_height": "450"
+        }
+      ]
+    },
+    {
+      "title": "Wildlife in Sinharaja Forest Reserve",
+      "table": {
+        "caption": "Wildlife in Sinharaja Forest Reserve",
+        "rows": [
+          {
+            "Animal Name": "Purple-faced Langur",
+            "Interesting Facts": "Endemic to Sri Lanka; distinctive purple face marking.",
+            "Image": "images/purple-faced langur.jpg"
+          },
+          {
+            "Animal Name": "Sri Lanka Blue Magpie",
+            "Interesting Facts": "Beautiful blue plumage; known for its vocalizations.",
+            "Image": "images/blue macpie.jpg"
+          },
+          {
+            "Animal Name": "Leopard",
+            "Interesting Facts": "Elusive big cat; top predator in Sinharaja's ecosystem.",
+            "Image": "images/leopard 2.1.jpg"
+          }
+        ]
+      }
+    }
+  ],
+  "footer": {
+    "social_links": {
+      "instagram": "https://www.instagram.com/crime__abooh",
+      "google_plus": "Abdullahsamad03@gmail.com",
+      "youtube": "https://www.youtube.com/@whitestudio4744"
+    },
+    "copyright": "Copyright ©2024; Designed by Abooh"
+  }
+}

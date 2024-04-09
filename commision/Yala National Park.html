@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+    <header> <!--main area-->
+        <meta name="viewport" content="width=device-width", initial-scale="1.0">
+        <title>Wild life in SriLanka</title>
+        <link rel="stylesheet" href="Yala National Park.css">
+        <link href="https://fonts.googleapis.com/css2?family=Kalnia:wght@300;400&family=Kurale&display=swap" rel="stylesheet">
+        <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+        <script src="https://kit.fontawesome.com/yourcode.js" crossorigin="anonymous"></script>
+    </header>
+    <body>
+        <nav>
+            <input type="checkbox" id="check">
+            <label for="check" class="checkbtn">
+                <i class="fa-solid fa-bars"></i>
+            </label>
+            <label class="logo"><img src="images/logo.png" alt=""></label>
+            <ul class="navli">
+                <li><a class="active" href="home.html">Home</a></li>
+                <li><a href="Sri Lankan Wildlife Introduction.html">Sri Lankan Wildlife Introduction</a></li>
+                <li><a href="Department of Wildlife Conservation.html">Department of Wildlife Conservation</a></li>
+                <li><a href="Sri Lankan Leopard.html">Sri Lankan Leopard</a></li>
+                <li><a href="Animals in Sri Lanka.html">Animals in Sri Lanka</a></li>
+            </ul>
+        </nav>
+        <section class="mainimg">
+        </section>
+        <section class="introduction">  <!--Introduction-->
+            <h1>Yala National Park</h1>
+            <p>
+                "Explore the untamed beauty of Yala National Park, where nature's masterpiece unfolds in
+breathtaking landscapes and diverse wildlife encounters. Embark on an exhilarating safari
+through lush jungles and vast savannahs, home to majestic elephants, elusive leopards, and a
+myriad of vibrant bird species. Yala's enchanting charm, coupled with its rich biodiversity,
+promises an unforgettable journey for nature enthusiasts and adventure seekers alike. Immerse
+yourself in the allure of Yala – a sanctuary of wonder and a photographer's paradise
+            </p>
+        </section>
+        <section class="sub-sections" id="hieght"> <!--3 sub section-->
+            <div class="row">
+                <div class="col">
+                    <img src="images/yala.jpg">
+                </div>
+                <div class="col">
+                    <img src="images/Yala 1.0.jpg">
+                </div>
+                <div class="col">
+                    <img src="images/Yala National Park Sri Lanka.jpg">
+                </div>
+                <div class="col">
+                    <img src="images/The ultimate Sri Lanka Safari guide.jpg">
+                </div>
+            </div>
+        </section>
+        <hr>
+        <footer>
+            <div class="footcon"> <!-- footer -->
+                <div class="social">
+                    <a href="https://www.instagram.com/crime__abooh"><i class="fa-brands fa-instagram"></i></a>
+                    <a href="Abdullahsamad03@gmail.com"><i class="fa-brands fa-google-plus"></i></a>
+                    <a href="https://www.youtube.com/@whitestudio4744"><i class="fa-brands fa-youtube"></i></a>
+                </div>
+            </div>
+            <div class="footbot">
+                <p>Copyright &#169;2024; Designed by <span class="design">Abooh</span></p>
+            </div>
+        </footer>
+    <script>
+
+        var navig = document.getElementById("navig");
+        var menu = document.getElementById("menu");
+
+        window.onscroll=function(){
+            if(window.pageYOffset >= menu.offsetTop){
+                navig.classList.add("sticky")
+            }
+            else{
+                navig.classList.remove("sticky")
+            }
+        }
+
+    </script>
+    </body>
+</html>
